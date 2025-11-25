@@ -1,0 +1,16 @@
+{
+  "name": "Appeddy Landing",
+  "short_name": "Appeddy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "description": "PWAs und App-Downloads von Appeddy.de – modern, mobil und direkt über Subdomains.",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
